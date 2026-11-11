@@ -1,7 +1,7 @@
  // Reasons database
  const reasons = [
     { 
-        text: "Vợ là một cô gái dịu dàng và tuyệt vời nhất. Anh cảm thấy vô cùng may mắn và hạnh phúc khi có vợ bên cạnh. 💖", 
+        text: "Vợ là một cô gái xinh đẹp và tuyệt vời nhất. Anh cảm thấy vô cùng may mắn và hạnh phúc khi được yêu vợ. 💖", 
         emoji: "🌟",
         gif: "gif1.gif"
     },
