@@ -76,7 +76,7 @@ function displayNewReason() {
                 duration: 0.5,
                 ease: "elastic.out",
                 onComplete: () => {
-                    shuffleButton.textContent = "Bước Vào Câu Chuyện Của Đôi Ta 💫";
+                    shuffleButton.textContent = "Vợ ấn vào đây nha 💕";
                     shuffleButton.classList.add('story-mode');
                     shuffleButton.addEventListener('click', () => {
                         gsap.to('body', {
