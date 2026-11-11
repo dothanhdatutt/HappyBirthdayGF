@@ -138,6 +138,12 @@ h1 {
     transform: scale(0);
 }
 
+.teddy-hug img {
+    width: 100%;
+    border-radius: 20px;
+    box-shadow: 0 10px 25px rgba(255, 105, 180, 0.3);
+}
+
 @keyframes gradientBG {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
