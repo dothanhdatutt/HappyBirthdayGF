@@ -16,7 +16,7 @@
         gif: "gif1.gif"
     },
     { 
-        text: "Hãy luôn là cô gái rạng rỡ, đáng yêu của anh nhé! Chúc vợ iu tuổi mới luôn ngập tràn niềm vui và hạnh phúc! 🥳 ", 
+        text: "Chúc vợ iu tuổi mới luôn ngập tràn niềm vui và hạnh phúc! 🥳 ", 
         emoji: "🌟",
         gif: "gif2.gif"
     }
